@@ -1,5 +1,5 @@
-# Australian-banking-fraud-transaction-detection-prevention-and-predective-model
-A binary classification problem regarding the Australian bank's fraud ATM transactions. 
+# Karnataka-banking-fraud-transaction-detection-prevention-and-predective-model
+A binary classification problem regarding the Karnataka bank's fraud ATM transactions. 
 
 ## Table of Contents
 - Project Overview
@@ -10,12 +10,12 @@ A binary classification problem regarding the Australian bank's fraud ATM transa
 - Results
 
 ## Project Overview
-- The objective of this project is to build a predictive model for fraud detection and prevention in ATM transactions for PredCatch Analytics' Australian banking client. 
+- The objective of this project is to build a predictive model for fraud detection and prevention in ATM transactions for Karnataka banking client. 
 - The goal is to reduce and potentially eliminate fraudulent transactions by creating a real-time predictive model that can identify and decline such transactions.
 - The Project Notebook is available at https://github.com/Shinde-Siddhant/Australian-banking-fraud-ATM-transaction-detection-model/blob/main/Project%20Notebook/Final_Project_Credit_Card_Fraud_Detection.ipynb
 
 ## Problem Statement
-- The Australian banking client is experiencing a negative impact on profitability and reputation due to fraudulent ATM transactions. PredCatch Analytics aims to build a predictive model to detect and prevent these fraudulent transactions in real time, reducing potential losses. The challenge lies in the data's imbalance, with very few fraud instances compared to the overall population.
+- The Karnataka banking client is experiencing a negative impact on profitability and reputation due to fraudulent ATM transactions. Aim is to build a predictive model to detect and prevent these fraudulent transactions in real time, reducing potential losses. The challenge lies in the data's imbalance, with very few fraud instances compared to the overall population.
 - The detailed problem statement ia available at https://github.com/Shinde-Siddhant/Australian-banking-fraud-ATM-transaction-detection-model/tree/main/Problem%20Statement
 
 ## Data
