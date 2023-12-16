@@ -15,8 +15,12 @@ A binary classification problem regarding the Karnataka bank's fraud ATM transac
 - The Project Notebook is available at https://github.com/Shinde-Siddhant/Australian-banking-fraud-ATM-transaction-detection-model/blob/main/Project%20Notebook/Final_Project_ATM_Transaction_Fraud_Detection.ipynb
 
 ## Problem Statement
-- The Karnataka banking client is experiencing a negative impact on profitability and reputation due to fraudulent ATM transactions. Aim is to build a predictive model to detect and prevent these fraudulent transactions in real time, reducing potential losses. The challenge lies in the data's imbalance, with very few fraud instances compared to the overall population.
-- The detailed problem statement ia available at https://github.com/Shinde-Siddhant/Australian-banking-fraud-ATM-transaction-detection-model/tree/main/Problem%20Statement
+- The Karnataka banking client's profitability and reputation are being hit by fraudulent ATM transactions. Your job as Data Scientist is to build this fraud detection & prevention predictive model in the first step. If successful, in the 2nd step you will have to present your solutions and explain how it works to the client.
+- The challenging part of the problem is that the data contains very few fraud instances in comparison to the overall population. To give more edge to the solution they have also collected data regarding location [geo_scores] of the transactions, their own proprietary index [Lambda_wts], on network turn around times [Qset_tats] and vulnerability qualification score [instance_scores]. As of now you don't need to understand what they mean.
+- Training data contains masked variables pertaining to each transaction id . Your prediction target here is 'Target'.
+  1: Fraudulent transactions
+  0: Clean transactions
+- The problem statement ia available at https://github.com/Shinde-Siddhant/Australian-banking-fraud-ATM-transaction-detection-model/tree/main/Problem%20Statement
 
 ## Data
 - The training data consists of masked variables related to each transaction ID. The prediction target is 'Target,' where:
